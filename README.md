@@ -1,16 +1,16 @@
-# 🚀 Projeto: Portfólio Web Pessoal com Sistema de Contato
+#  Projeto: Portfólio Web Pessoal com Sistema de Contato
 
 ---
 
 ## 📑 Índice
 
-- [📌 Descrição do Projeto](#-descrição-do-projeto)
-- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
-- [⚙️ Requisitos](#️-requisitos)
-- [📊 Resultado do Projeto](#-resultado-do-projeto)
-- [📚 Documentação Adicional](#-documentação-adicional)
-- [👨‍💻 Autores](#-autores)
-- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
+- [ Descrição do Projeto](#-descrição-do-projeto)
+- [ Objetivo do Projeto](#-objetivo-do-projeto)
+- [ Requisitos](#️-requisitos)
+- [ Resultado do Projeto](#-resultado-do-projeto)
+- [ Documentação Adicional](#-documentação-adicional)
+- [ Autores](#-autores)
+- [ Estrutura de Pastas](#-estrutura-de-pastas)
 
 ---
 
@@ -22,11 +22,11 @@ A aplicação foi construída utilizando **Spring Boot**, integrando backend e f
 
 ### 🔹 Funcionalidades principais:
 
-- 📄 Apresentação de informações pessoais e profissionais  
-- 🎨 Layout moderno e organizado  
-- 📧 Sistema de contato via envio de email  
-- ✔️ Validação de email  
-- 🛡️ Verificação básica de spam  
+-  Apresentação de informações pessoais e profissionais  
+-  Layout moderno e organizado  
+-  Sistema de contato via envio de email  
+-  Validação de email  
+-  Verificação básica de spam  
 
 > ⚠️ **Nota:** Projeto com foco educacional e profissional, demonstrando habilidades em desenvolvimento web full stack.
 
@@ -39,10 +39,10 @@ O objetivo deste projeto é criar um **portfólio digital funcional**, permitind
 - Exibir informações profissionais de forma estruturada  
 - Criar um canal direto de comunicação com visitantes  
 - Demonstrar conhecimentos em:
-  - ☕ Java
-  - 🌱 Spring Boot
-  - 🌐 Desenvolvimento Web
-  - 🔐 Validação e tratamento de dados  
+  -  Java
+  -  Spring Boot
+  -  Desenvolvimento Web
+  -  Validação e tratamento de dados  
 
 Além disso, o projeto aplica boas práticas de segurança básica em formulários.
 
@@ -69,12 +69,12 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 
 ### ✅ O sistema oferece:
 
-- 🌐 Site pessoal moderno e responsivo  
-- 📄 Exibição de informações profissionais  
-- 📧 Formulário de contato funcional  
-- 📬 Envio de emails integrado via backend  
-- ✔️ Validação de email no lado do servidor  
-- 🛡️ Verificação básica contra spam  
+-  Site pessoal moderno e responsivo  
+-  Exibição de informações profissionais  
+-  Formulário de contato funcional  
+-  Envio de emails integrado via backend  
+-  Validação de email no lado do servidor  
+-  Verificação básica contra spam  
 
 ---
 
@@ -82,11 +82,11 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 
 Sugestões de melhorias e evolução do projeto:
 
-- 🔄 Criação de uma API REST desacoplada  
-- 🗄️ Integração com banco de dados (ex: PostgreSQL, MySQL)  
-- 🔐 Implementação de autenticação e autorização  
-- 🤖 Uso de reCAPTCHA ou rate limiting para proteção contra spam  
-- 📊 Logs e monitoramento de requisições  
+-  Criação de uma API REST desacoplada  
+-  Integração com banco de dados (ex: PostgreSQL, MySQL)  
+-  Implementação de autenticação e autorização  
+-  Uso de reCAPTCHA ou rate limiting para proteção contra spam  
+-  Logs e monitoramento de requisições  
 
 ---
 
