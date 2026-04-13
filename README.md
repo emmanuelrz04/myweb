@@ -62,3 +62,67 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 - frontend: HTML, CSS
 - IDE: VS Code / IntelliJ
 - servidor: embutido (Spring Boot)
+```
+---
+
+# 📊 Resultado do Projeto
+
+### ✅ O sistema oferece:
+
+- 🌐 Site pessoal moderno e responsivo  
+- 📄 Exibição de informações profissionais  
+- 📧 Formulário de contato funcional  
+- 📬 Envio de emails integrado via backend  
+- ✔️ Validação de email no lado do servidor  
+- 🛡️ Verificação básica contra spam  
+
+---
+
+# 📚 Documentação Adicional
+
+Sugestões de melhorias e evolução do projeto:
+
+- 🔄 Criação de uma API REST desacoplada  
+- 🗄️ Integração com banco de dados (ex: PostgreSQL, MySQL)  
+- 🔐 Implementação de autenticação e autorização  
+- 🤖 Uso de reCAPTCHA ou rate limiting para proteção contra spam  
+- 📊 Logs e monitoramento de requisições  
+
+---
+
+<div align="center">
+
+# 👨‍💻 Autores
+
+## Emmanuel Ricardo Barros de Araujo
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/emmanuel-araujo-416203380)
+
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail)](mailto:emmanuelricardo04@gmail.com)
+
+</div>
+
+---
+
+# 📂 Estrutura de Pastas
+
+```bash
+📂 myweb/
+│
+├── 📂 src/
+│   ├── 📂 main/
+│   │   ├── 📂 java/
+│   │   │   ├── 📂 controllers/
+│   │   │   ├── 📂 services/
+│   │   │   └── 📂 config/
+│   │   │
+│   │   ├── 📂 resources/
+│   │   │   ├── 📂 static/        # CSS, JS, imagens
+│   │   │   ├── 📂 templates/     # páginas HTML
+│   │   │   └── application.properties
+│
+├── 📄 pom.xml
+└── 📄 README.md
+```
