@@ -67,7 +67,7 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 
 # 📊 Resultado do Projeto
 
-### ✅ O sistema oferece:
+###  O sistema oferece:
 
 -  Site pessoal moderno e responsivo  
 -  Exibição de informações profissionais  
