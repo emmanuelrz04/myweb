@@ -2,7 +2,7 @@
 
 ---
 
-## 📑 Índice
+##  Índice
 
 - [ Descrição do Projeto](#-descrição-do-projeto)
 - [ Objetivo do Projeto](#-objetivo-do-projeto)
@@ -14,13 +14,13 @@
 
 ---
 
-# 📌 Descrição do Projeto
+#  Descrição do Projeto
 
 Este projeto consiste em um **site pessoal moderno e responsivo**, desenvolvido para apresentação profissional e demonstração de habilidades técnicas.
 
 A aplicação foi construída utilizando **Spring Boot**, integrando backend e frontend de forma eficiente.
 
-### 🔹 Funcionalidades principais:
+###  Funcionalidades principais:
 
 -  Apresentação de informações pessoais e profissionais  
 -  Layout moderno e organizado  
@@ -32,7 +32,7 @@ A aplicação foi construída utilizando **Spring Boot**, integrando backend e f
 
 ---
 
-# 🎯 Objetivo do Projeto
+#  Objetivo do Projeto
 
 O objetivo deste projeto é criar um **portfólio digital funcional**, permitindo:
 
@@ -48,7 +48,7 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 
 ---
 
-# ⚙️ Requisitos
+#  Requisitos
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-green)
@@ -65,7 +65,7 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 ```
 ---
 
-# 📊 Resultado do Projeto
+#  Resultado do Projeto
 
 ###  O sistema oferece:
 
@@ -78,7 +78,7 @@ Além disso, o projeto aplica boas práticas de segurança básica em formulári
 
 ---
 
-# 📚 Documentação Adicional
+#  Documentação Adicional
 
 Sugestões de melhorias e evolução do projeto:
 
@@ -92,7 +92,7 @@ Sugestões de melhorias e evolução do projeto:
 
 <div align="center">
 
-# 👨‍💻 Autores
+#  Autores
 
 ## Emmanuel Ricardo Barros de Araujo
 
